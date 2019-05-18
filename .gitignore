@@ -69,4 +69,4 @@ typings/
 ._.DS_Store
 .DS_Store
 .vscode/*
-src/client.min.js
+src/*.min.js
